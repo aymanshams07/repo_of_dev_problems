@@ -2,3 +2,6 @@
 Solving problems
 # frist 
 - Reverse string string[::-1]
+# second 
+- max
+  
