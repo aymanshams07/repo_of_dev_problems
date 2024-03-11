@@ -1,7 +1,8 @@
 # repo_of_dev_problems
-Solving problems
-# frist 
+# Solving problems
+-- frist 
 - Reverse string string[::-1]
-# second 
+-- second 
 - max
-  
+-- Third  
+- BuzzFizz
