@@ -4,5 +4,6 @@
 - Reverse string string[::-1]
 -- second 
 - max
--- Third  
+-- Medium  
 - BuzzFizz
+- Leet 1
