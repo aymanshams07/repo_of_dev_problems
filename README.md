@@ -7,3 +7,11 @@
 -- Medium  
 - BuzzFizz
 - Leet 1
+-- Codeforce watermelon problem:
+  #def watermelon_div(inp_weight):
+    if inp_weight <= 2:
+        print("NO")
+    elif inp_weight % 2 == 0:
+        print("YES")
+    else:
+        print("NO")
