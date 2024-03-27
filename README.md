@@ -15,3 +15,4 @@
         print("YES")
     else:
         print("NO")
+-- codeforce counter of elements
